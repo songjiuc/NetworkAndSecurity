@@ -42,12 +42,12 @@
 
 Perfect substitute = input + hash table/key = output; substitution table has an entry for each plaintext and contain all possible cyphertext outputs. Shuffle.
 
-[Symmetric Block Cypher](Symmetric%20Block%20Cypher%2074e0078513704efa9e9b42fa524ebc26.md)
+[Symmetric Block Cypher](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Crypto/Symmetric%20Block%20Cypher.md)
 
-[Stream Cypher](Stream%20Cypher%20fe4db399c7124515825fbcfd3e162855.md)
+[Stream Cypher](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Crypto/Stream%20Cypher.md)
 
-[Hash Function](Hash%20Function%202b9070d61d2e4ecb94f5756c96d192d1.md)
+[Hash Function](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Crypto/Hash%20Function.md)
 
-[Public Key Crypto](Public%20Key%20Crypto%20c6513ce8b8754fa89b244d1179c11ee5.md)
+[Public Key Crypto](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Crypto/Public%20Key%20Crypto.md)
 
-[Mode of Operation and Authentication](Mode%20of%20Operation%20and%20Authentication%20065d262bb0644dbfa450ff7b84b7dae7.md)
+[Mode of Operation and Authentication](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Crypto/Mode%20of%20Operation%20and%20Authentication.md)

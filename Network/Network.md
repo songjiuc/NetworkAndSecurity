@@ -33,10 +33,10 @@ TTL (Time to Live): number of hops it’s allowed to travel before it should be 
 
 **Bottleneck**: nodes are the minimum throughput devices on a path, typically located at/near connections to access networks
 
-[Application Layer](Network%20fa41f26c3f6d419ebe6b9c441e0d4c34/Application%20Layer%20a6826b9e13944150ae9956698399f225.md)
+[Application Layer](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Network/Application%20Layer.md)
 
-[Transport Layer](Network%20fa41f26c3f6d419ebe6b9c441e0d4c34/Transport%20Layer%205b5146f1eaf040219229fd298302c20f.md)
+[Transport Layer](https://github.com/songjiuc/NetworkAndSecurity/tree/main/Network/Transport%20Layer)
 
-[Network Layer](Network%20fa41f26c3f6d419ebe6b9c441e0d4c34/Network%20Layer%20af88cdb4b163473889a0750379619e06.md)
+[Network Layer](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Network/Network%20Layer.md)
 
-[Link Layer](Network%20fa41f26c3f6d419ebe6b9c441e0d4c34/Link%20Layer%20cb42e478710841d88bb8800f3b7c2d04.md)
+[Link Layer](https://github.com/songjiuc/NetworkAndSecurity/blob/main/Network/Link%20Layer.md)
